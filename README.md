@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...AzureDevops, CNCF
 - 🤔 I’m looking for help with ...Kubernetes
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...Mail me : jitu8888@gmail.com
+- 📫 How to reach me: ...Mail me : jitusonawane@live.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
